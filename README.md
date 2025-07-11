@@ -18,6 +18,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🤸 [Quick Start](#quick-start)
 4. 🔋 [Features](#features)
+5. 🔍 [Why Use This Extension?](#use)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -55,9 +56,9 @@ git clone <your-repo-url>
 2. Copy to Clipboard
 3. Clean Popup Interface
 4. One-Click Summarization
+🔍 Why Use This Extension?
 
-
-## 🔍 Why Use This Extension?
+## <a name="use">🔍 Why Use This Extension?</a>
 
 - 🚀 **Boost Productivity**: Understand content at a glance without reading everything.
 - 🤖 **AI-Powered Insights**: Uses LLMs to generate human-like summaries in seconds.
